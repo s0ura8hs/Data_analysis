@@ -10,7 +10,7 @@
 
 </div>
 
-📌 Project Overview
+ Project Overview
 
 This project focuses on understanding the fundamentals of **Data Analysis**, **Data Preprocessing**, and **Exploratory Data Analysis (EDA)** using two real-world datasets:
 
@@ -31,9 +31,9 @@ The project was completed as part of the **IAPC Project (Semester IV)** at the *
 
 ---
 
-# 📂 Datasets Used
+# Datasets Used
 
-## 1️⃣ Zomato Bengaluru Restaurant Dataset
+## Zomato Bengaluru Restaurant Dataset
 
 This dataset contains information about restaurants in Bengaluru including:
 
@@ -56,7 +56,7 @@ This dataset contains information about restaurants in Bengaluru including:
 
 ---
 
-## 2️⃣ Delhi AQI Dataset (2020–2025)
+## Delhi AQI Dataset (2020–2025)
 
 This dataset contains environmental and atmospheric data such as:
 
@@ -81,7 +81,7 @@ This dataset contains environmental and atmospheric data such as:
 
 ---
 
-# 🛠️ Technologies & Libraries Used
+#  Technologies & Libraries Used
 
 | Technology   | Purpose                        |
 | ------------ | ------------------------------ |
@@ -95,26 +95,26 @@ This dataset contains environmental and atmospheric data such as:
 
 ---
 
-# 🔍 Data Preprocessing Techniques
+# Data Preprocessing Techniques
 
-## ✔️ Data Cleaning
+## Data Cleaning
 
 * Removed duplicate records
 * Handled inconsistent formatting
 * Removed unnecessary columns
 * Cleaned textual data using regex
 
-## ✔️ Missing Value Handling
+## Missing Value Handling
 
 * Mean/Median based filling
 * KNN Imputation for numerical features
 
-## ✔️ Feature Engineering
+##  Feature Engineering
 
 * Weighted rating score generation
 * Numerical transformation of categorical data
 
-## ✔️ NLP Processing
+##  NLP Processing
 
 * Tokenization
 * Stopword removal
@@ -123,28 +123,28 @@ This dataset contains environmental and atmospheric data such as:
 
 ---
 
-# 📊 Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 The project includes:
 
-## 📈 Univariate Analysis
+## Univariate Analysis
 
 * Histograms
 * Box plots
 
-## 📉 Bivariate Analysis
+##  Bivariate Analysis
 
 * Scatter plots
 * Relationship analysis
 
-## 🔥 Multivariate Analysis
+##  Multivariate Analysis
 
 * Correlation heatmaps
 * Feature relationship study
 
 ---
 
-# 🍽️ Zomato Dataset Insights
+#  Zomato Dataset Insights
 
 ## Key Findings
 
@@ -157,21 +157,21 @@ The project includes:
 
 ## Important Observations
 
-### ✔️ Online Ordering vs Customer Engagement
+###  Online Ordering vs Customer Engagement
 
 Restaurants offering online ordering generally received higher customer engagement and votes.
 
-### ✔️ Table Booking vs Ratings
+###  Table Booking vs Ratings
 
 Restaurants with table booking facilities maintained higher average ratings.
 
-### ✔️ Cost vs Votes
+###  Cost vs Votes
 
 Mid-range restaurants showed maximum customer interaction.
 
 ---
 
-# 🌫️ AQI Dataset Insights
+#  AQI Dataset Insights
 
 ## Key Findings
 
@@ -183,15 +183,15 @@ Mid-range restaurants showed maximum customer interaction.
 
 ## Important Observations
 
-### ✔️ AQI vs PM2.5 / PM10
+###  AQI vs PM2.5 / PM10
 
 Strong positive correlation observed between particulate matter and AQI.
 
-### ✔️ Visibility vs Pollution
+###  Visibility vs Pollution
 
 Visibility sharply decreases with increasing particulate concentration.
 
-### ✔️ Pollutant Relationships
+###  Pollutant Relationships
 
 Most pollutants rise together due to common emission sources such as:
 
@@ -201,7 +201,7 @@ Most pollutants rise together due to common emission sources such as:
 
 ---
 
-# 📷 Visualizations Included
+#  Visualizations Included
 
 The project contains multiple visualizations such as:
 
@@ -222,7 +222,7 @@ Examples:
 
 ---
 
-# 📚 Concepts Learned
+#  Concepts Learned
 
 Through this project, the following concepts were explored practically:
 
@@ -237,22 +237,22 @@ Through this project, the following concepts were explored practically:
 
 ---
 
-# 🚀 How to Run the Project
+#  How to Run the Project
 
-## 1️⃣ Clone the Repository
+##  Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/Data_analysis.git
 cd Data_analysis
 ```
 
-## 2️⃣ Install Required Libraries
+##  Install Required Libraries
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn nltk
 ```
 
-## 3️⃣ Run the Notebook / Python Files
+##  Run the Notebook / Python Files
 
 ```bash
 python main.py
@@ -266,7 +266,7 @@ jupyter notebook
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```bash
 Data_analysis/
@@ -287,7 +287,7 @@ Data_analysis/
 
 ---
 
-# 🎯 Conclusion
+#  Conclusion
 
 This project successfully demonstrates how real-world datasets can be cleaned, processed, analyzed, and visualized to extract meaningful insights.
 
@@ -303,7 +303,7 @@ The project also provided hands-on experience with:
 
 ---
 
-# 👨‍💻 Contributors
+#  Contributors
 
 * Chitranshi Kumre
 * Sanskar Dwivedi
@@ -317,7 +317,7 @@ Cluster Innovation Centre, University of Delhi
 
 ---
 
-# 📖 References
+#  References
 
 * Kaggle Datasets
 * Pandas Documentation
@@ -328,6 +328,6 @@ Cluster Innovation Centre, University of Delhi
 
 ---
 
-# ⭐ If you like this project
+#  If you like this project
 
 Give this repository a ⭐ on GitHub!
