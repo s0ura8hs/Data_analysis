@@ -272,15 +272,14 @@ jupyter notebook
 Data_analysis/
 │
 ├── datasets/
-│   ├── zomato.csv
-│   └── delhi_aqi.csv
+│   ├── zomato.txt
+│   └── delhi_aqi.txt
 │
 ├── notebooks/
-│   ├── zomato_analysis.ipynb
-│   └── aqi_analysis.ipynb
+│   ├── zomato_analysis.py
+│   └── aqi_analysis.py
 │
-├── images/
-│   └── visualizations
+├── visualizations
 │
 ├── README.md
 └── requirements.txt
